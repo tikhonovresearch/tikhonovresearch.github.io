@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="AT monogram">
+  <rect width="64" height="64" rx="14" fill="#081b33"/>
+  <path d="M16 46 29.4 16h5.2L48 46h-7l-3-7H26l-3 7h-7Zm12.4-13h7.2L32 24.4 28.4 33Z" fill="#78a9ff"/>
+  <path d="M37 18h14v5h-4.5v23h-6V23H37v-5Z" fill="#fff"/>
+</svg>

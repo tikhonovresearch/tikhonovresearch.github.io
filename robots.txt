@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tikhonovresearch.github.io/sitemap.xml
